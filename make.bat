@@ -1,0 +1,1 @@
+jar cvf cmd.war WEB-INF cmd.jsp
